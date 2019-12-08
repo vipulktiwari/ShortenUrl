@@ -1,0 +1,15 @@
+hash: bdf5c0b43903ad8f1246f2cdfe547d87d5dcc3a4055c326109e5a2a40514e3e3
+updated: 2019-12-06T12:33:57.274021+05:30
+imports:
+- name: github.com/go-kit/kit
+  version: c0f85106313b6e8cb564f91c8a57d87c79efbc1e
+  subpackages:
+  - endpoint
+  - log
+  - transport
+  - transport/http
+- name: github.com/go-logfmt/logfmt
+  version: 07c9b44f60d7ffdfb7d8efe1ad539965737836dc
+- name: github.com/kr/logfmt
+  version: b84e30acd515aadc4b783ad4ff83aff3299bdfe0
+testImports: []
